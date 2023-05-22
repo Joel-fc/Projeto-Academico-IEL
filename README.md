@@ -51,6 +51,9 @@ Por favor, tenha em mente que este projeto não tem nenhuma relação com a empr
   * Coloque o arquivo de Excel e o banco de dados no mesmo diretório. Caso opte por utilizar diretórios diferentes, será necessário modificar o código de conexão com o banco.
   * Configure as opções de envio de e-mails no código VBA, conforme as instruções fornecidas.
   * Execute o projeto através do arquivo de Excel e utilize as funcionalidades disponíveis.
+  * Usuário:
+    * Login: ADMIN@ADMIN.COM
+    * Senha: ADMIN
 
 # Limitações
   O projeto não foi desenvolvido com responsividade em mente, podendo gerar conflitos em diferentes resoluções de tela.
